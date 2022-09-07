@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daníel Freyr</h1>
-<h3 align="center">A passionate Icelandic frontend developer living in Denmark</h3>
+<h3 align="center">A passionate frontend developer living in Denmark</h3>
 
 - 🌱 I’m currently learning **C#**
 
