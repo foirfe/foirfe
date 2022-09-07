@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **C#**
 
-- 👨‍💻 All of my projects are available at [danielfraisland.dk](danielfraisland.dk)
+- 👨‍💻 All of my projects are available at [https://danielfraisland.dk/](https://danielfraisland.dk/)
 
 - 📫 How to reach me **danielfreyr95@gmail.com**
 
