@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://danielfraisland.dk/](https://danielfraisland.dk/)
 
-- 📫 How to reach me **danielfreyr95@gmail.com**
+- 📫 How to reach me **danielfreyr95@outlook.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
